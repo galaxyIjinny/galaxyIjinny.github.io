@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "테스트 6번"
+title:  "6번 테스트"
 date:   2024-01-08 18:23:59
 author: Jinny
 categories: Test
